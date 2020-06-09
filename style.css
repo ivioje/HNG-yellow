@@ -7,3 +7,68 @@
 sans-serif;
 font-family: Lora,
 serif; */
+
+*{
+	font-family: sans-serif, Ubuntu, Lora;
+	
+	color: #ffff;
+
+}
+
+.nav-list{
+	/*text-align: center;*/
+	font-weight: bolder!important;
+}
+.nav-list li{
+	margin-right: 40px;
+	font-size: 20px;
+}
+.nav-item a{
+	color: #ffff!important;
+	
+}
+.nav-item a:hover{
+	color: #1fcfc6!important;
+	
+}
+.col-md-4 a{
+	color: #ffff;
+	text-decoration: none;
+}
+
+.footer-icons{
+	margin-left: 46PX;
+}
+.footer-icons i{
+	margin-right: 20px
+}
+.footer-details a:hover{
+	color: #1fcfc6!important;
+}
+
+label{
+	display: block;
+	color: black;
+}
+select {
+	color: black;
+	border: 0;
+	width: 6.8em;
+	padding: 0.67em 0 ;
+}
+input{
+	color: black;
+	border: 0;
+	padding: 6px;
+	width: 6.8em
+}
+.check-date{
+	margin-right: 0.5em;
+}
+.check-btn{
+	background: #55A8AE;
+	padding: 15px 15px;
+	display: inline-block;
+	margin-top: 29px;
+	color: #ffff;
+}
